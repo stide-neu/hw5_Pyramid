@@ -2,16 +2,4 @@
 
 Pyramid
 
-Input: 5 (should be 1 -10)
-
-Output: (make 01 instead of 1)
-
-    01
-    
-   02 03
-   
-  04 05 06
-  
- 07 08 09 10
- 
-11 12 13 14 15
+![image](https://user-images.githubusercontent.com/33346418/233412965-2301ae5c-54ec-4ea5-9aeb-7a7a58e065a6.png)
